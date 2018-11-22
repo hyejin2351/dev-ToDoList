@@ -6,6 +6,7 @@
     background: white;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     padding-top: 2rem;
+    
     @media(max-width: 768px) {
         margin-top: 1rem;
         width: calc(100%-2rem);
